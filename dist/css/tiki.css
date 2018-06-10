@@ -1,0 +1,50 @@
+.tiki-ads{
+    background: #D8D8D8;
+    width: 100%;
+    height: 40px;
+}
+
+.tiki-promo{
+    background: yellow;
+    width: 100%;
+    height: 28px;
+}
+
+.tiki-promo-mobi{
+    padding-top: 2px;
+}
+.tiki-promo-mobi-logo{
+    width: 24px;
+    float: left;
+    height: 24px;
+    background: url("../../images/logo/cellphone-android.svg");
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+.tiki-promo-mobi-text{
+    width: auto;
+    height: 24px;
+    float: left;
+    line-height: 24px;
+    vertical-align: middle;
+    color: white;
+}
+
+
+.tiki-nav{
+    background: #e0e0e0;
+    width: 100%;
+    height: 100px;
+}
+
+
+.tiki-nav-top{
+    background: #555555;
+    width: 100%;
+    height: 60%;
+}
+.tiki-nav-bottom{
+    background: #865858;
+    width: 100%;
+    height: 40%;
+}
